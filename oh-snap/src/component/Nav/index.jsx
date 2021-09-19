@@ -29,6 +29,7 @@ function Nav(props) {
           <li className="mx-2">
             <a
               href="#about"
+              data-testid="about"
             >
               About me
             </a>
